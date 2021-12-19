@@ -4,9 +4,9 @@ image_config: &image_config
   # either as project-specific environment variables
   # or as resources in your organization's org-global Context
 
-  IMAGE_NAME: python:3.7.5-rcc-browser
+  IMAGE_NAME: python
 
-  IMAGE_TAG: v1
+  IMAGE_TAG: 3.7.5-rcc-browser
 
   # NOTE: if you're modifying this config.yml file manually
   # rather than using the included setup script,
